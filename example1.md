@@ -1,6 +1,6 @@
 ## Hi, I am Piyush Anand! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am John Dee, currently pursuing my Bachelor Of Technology in Computer Science. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Piyush Anand, currently pursuing my Bachelor Of Technology in Computer Science. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Piyush%20Anand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyush-anand-635208201/)](https://www.linkedin.com/in/piyush-anand-635208201/)
 [![Gmail Badge](https://img.shields.io/badge/-Piyush%20Anand-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyushanand2580@gmail.com)](mailto:piyushanand2580@gmail.com)
@@ -25,6 +25,9 @@ I am John Dee, currently pursuing my Bachelor Of Technology in Computer Science.
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+
 
 ### Tools:
 
@@ -32,6 +35,7 @@ I am John Dee, currently pursuing my Bachelor Of Technology in Computer Science.
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
 ## 📈 Stats
