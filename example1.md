@@ -1,12 +1,12 @@
-## Hi, I am JOHN DEE! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I am Piyush Anand! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am John Dee, currently pursuing my Bachelor Of Technology in Computer Science. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Piyush Anand, currently pursuing my Bachelor Of Technology in Computer Science. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Piyush%20Anand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyush-anand-635208201/)](https://www.linkedin.com/in/piyush-anand-635208201/)
 [![Gmail Badge](https://img.shields.io/badge/-Piyush%20Anand-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyushanand2580@gmail.com)](mailto:piyushanand2580@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://khushi0321.github.io/portfolio/#/)
 
-[![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Khushi0321&theme=xcode)](https://git.io/khushi0321)
+
+[![Khushi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anandpiyush1521&bg_color=2c2b2b&color=2ddbe1&line=7bc70a&point=2e32b2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Technologies
 
@@ -25,6 +25,9 @@ I am John Dee, currently pursuing my Bachelor Of Technology in Computer Science.
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+
 
 ### Tools:
 
@@ -32,20 +35,18 @@ I am John Dee, currently pursuing my Bachelor Of Technology in Computer Science.
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
 ## 📈 Stats
 
 <p align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Khushi0321&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi0321&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=anandpiyush1521&theme=dark" />
 </p>
 
 <br>
 
 
 -----
-Credits: [Khushi Saxena](https://github.com/Khushi0321)
+Credits: [Piyush Anand](https://github.com/anandpiyush1521)
 
-Last Edited on: 30/11/2021
