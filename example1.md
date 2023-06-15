@@ -1,4 +1,4 @@
-## Hi, I am JOHN DEE! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I am Piyush Anand! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am John Dee, currently pursuing my Bachelor Of Technology in Computer Science. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -37,9 +37,7 @@ I am John Dee, currently pursuing my Bachelor Of Technology in Computer Science.
 ## 📈 Stats
 
 <p align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Khushi0321&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi0321&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=anandpiyush1521&theme=dark" />
 </p>
 
 <br>
